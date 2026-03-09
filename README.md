@@ -13,7 +13,7 @@ The goal of this project is to explore a real-world dataset, apply appropriate p
 - Jupyter Notebook
 
 ## Files
-- `dsc550_final_project.ipynb` – main analysis notebook
+- `Disease_Symptoms_Prediction_Model.ipynb` – main analysis notebook
 
 ## How to Run
 1. Clone this repository  
