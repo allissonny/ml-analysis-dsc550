@@ -1,6 +1,6 @@
 # Disease Symptoms Prediction Model
 
-This repository contains my final project for DSC550, demonstrating applied data analysis and basic machine learning workflows using Python and Jupyter Notebook.
+This repository contains my project demonstrating applied data analysis and basic machine learning workflows using Python and Jupyter Notebook.
 
 ## Project Overview
 The goal of this project is to explore a real-world dataset, apply appropriate preprocessing techniques, and evaluate one or more models to uncover meaningful insights.
